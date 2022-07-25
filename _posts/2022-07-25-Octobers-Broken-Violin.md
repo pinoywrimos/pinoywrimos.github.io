@@ -11,6 +11,8 @@ excerpt: Read an extract of fuyu's NaNoWriMo 2007 entry, "October's Broken Violi
 
 **About the Novel:** Autumn’s life has always been perfect during the Fall season, especially in October. This year, though, things start falling apart one after another. Her friends keep making the wrong decisions, all the wrong guys are asking her out, her adopted family is having problems, and her grades are plummeting to oblivion. As the feat to smile becomes increasingly difficult and the only reason she’s able to keep her sanity is her best friend Vin and the hope that her treasured violin will finally be fixed. But then Autumn makes the mistake of introducing Vin to her gorgeous new classmate, and everything is keeping Autumn from attending to her violin… What’s the violinist formerly known as Autumn to do?
 
+<hr>
+
 She was called Autumn.
 
 Autumn. Not Tom. And, as previously established throughout the previous chapters, she was a girl.
