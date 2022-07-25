@@ -1,11 +1,9 @@
 ---
-title: 'October's Broken Violin'
-date: 2020-11-20 11:00:00
+title: 'October`s Broken Violin'
+date: 2022-07-25 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
-excerpt: Autumn’s life has always been perfect during the Fall season, especially in October. This year, though, things start falling apart one after another. Her friends keep making the wrong decisions, all the wrong guys are asking her out, her adopted family is having problems, and her grades are plummeting to oblivion. As the feat to smile becomes increasingly difficult and the only reason she’s able to keep her sanity is her best friend Vin and the hope that her treasured violin will finally be fixed. But then Autumn makes the mistake of introducing Vin to her gorgeous new classmate, and everything is keeping Autumn from attending to her violin… What’s the violinist formerly known as Autumn to do? (NaNoWriMo 2007 entry)
+excerpt: Read an extract of fuyu's NaNoWriMo 2007 entry, "October's Broken Violin." (Originally posted by Tina Matanguihan (tinamats) on November 20, 2008)
 ---
-
-*Originally posted by Tina Matanguihan (tinamats) on November 20, 2008.*
 
 **By: fuyu**
 
@@ -164,3 +162,5 @@ It was Autumn’s turn to raise an eyebrow. “You’ll have it fixed,” she ec
 That last part he said in a way that made Autumn involuntarily answer, “Okay.”
 
 And then Vin was smiling again, and then he was turning her around, and then she was walking back to her apartment in a daze.
+
+*Originally posted by Tina Matanguihan (tinamats) on November 20, 2008.*
